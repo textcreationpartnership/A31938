@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Maiesties last most gracious message for peace sent to the two houses of Parliament the 29 of Ianuary, 1645.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31938</idno><idno type="EEBO-CITATION">10629621</idno>
+  <idno type="VID">45457</idno>
+  <idno type="EEBO-PROQUEST">2240898179</idno>
+  
+            <idno type="STC">Wing C2374</idno>
+            <idno type="STC">ESTC R28555</idno>
+            <idno type="OCLC">10629621</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A31938)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45457)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1400:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Maiesties last most gracious message for peace sent to the two houses of Parliament the 29 of Ianuary, 1645.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end: "Given at the court of Oxford the 29 of Jan. 1645."</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45457:1"/>
+            <pb facs="tcp:45457:1"/>
+            <p>THE KINGS MAIESTIES LAST Most Gracious Message for PEACE: Sent to the Two Houses of PARLIA<g ref="char:EOLhyphen"/>MENT the 29. of <hi>Ianuary,</hi> 1645.</p>
+            <figure>
+               <figDesc>arms of Charles I</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENCE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>Printed in the yeare 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45457:2"/>
+            <pb n="1" facs="tcp:45457:2"/>
+            <head>The KINGS Majesties last most Gracious Message for Peace.</head>
+            <opener>
+               <signed>Charles R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majestie having received Informati<g ref="char:EOLhyphen"/>on from the Lord Lieutenant and Counsell in <hi>Ireland,</hi> that the Earle of <hi>Glamorgan</hi> hath, without His, or their directions or privitie, en<g ref="char:EOLhyphen"/>tred into a Treatie with some Commissioners on the <hi>Roman</hi> Catholique partie there: And also drawne up, and agreed unto certaine Articles with the said Commissioners, highly derogatory to His Majesties Honour and Royall Dignitie, and most prejudiciall to the Protestant Religion, and Church there in <hi>Ireland:</hi> Whereupon the said Earle of <hi>Glamorgan</hi> is Arrested upon suspition of High Treason, and Imprisoned by the Lord Lieu<g ref="char:EOLhyphen"/>tenant of <hi>Ireland</hi> and Counsell, at the instance, and by the Impeachment of the Lord <hi>Digby:</hi> Who, by reason of his place, and former imployment in those affaires, doth best know how contrary that proceeding of the said Earle hath beene to His
+<pb n="2" facs="tcp:45457:3"/> Majesties Intentions and Directions, and what prejudice it might bring to His Affaires, if those proceedings of the Earl of <hi>Glamorgan</hi> should be any wayes understood to have beene done by the Di<g ref="char:EOLhyphen"/>rection, Liking, or Approbation of His Maje<g ref="char:EOLhyphen"/>stie, His Majestie (having in his former Messages for a personall Treatie, offered <hi>to give contentment to his two Houses in the businesse of Ireland</hi>) hath now thought fitting, the better to shew His cleare in<g ref="char:EOLhyphen"/>tentions, and to give satisfaction to His said Houses of Parliament, and the rest of His Sub<g ref="char:EOLhyphen"/>jects in all His Kingdomes, to send this Declara<g ref="char:EOLhyphen"/>tion to the said Houses, containing the whole Truth of this businesse: which is,</p>
+            <p>That the Earle of <hi>Glamorgan,</hi> having made offer unto Him, to rayse Forces in the Kingdome of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and to conduct them into <hi>England</hi> for His Majesties Serv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, had a Commission to that pur<g ref="char:EOLhyphen"/>pose, and to that purpose onely.</p>
+            <p>That he had no Commission at all to Treat of any thing else, without the privitie and directions of the Lord Lieutenant, much lesse to Capitulate any thing concerning Religion, or any proprietie be<g ref="char:EOLhyphen"/>longing either to Church or Laity.</p>
+            <p>That it clearely appeareth by the Lord Lieute<g ref="char:EOLhyphen"/>nants proceedings with the said Earle, that he had no notice at all of what the said Earle had Treated and pretented to have Capitulated with the <hi>Irish,</hi> untill by accident it came to his knowledge. And His Majestie doth protest, that untill such time as
+<pb n="3" facs="tcp:45457:3"/> he had advertisement that the person of the said Earl of <hi>Glamorgan</hi> was Arrested and restrained, as above<g ref="char:EOLhyphen"/>said, he never heard, or had any kind of notice, that the said Earle had entred into any kind of Trea<g ref="char:EOLhyphen"/>tie or Capitulation with those <hi>Irish</hi> Commissioners, much lesse, that he had concluded or Signed those Articles, so destructive to Church and State, and so repugnant to His Majesties Professions and knowne Resolutions. And for the further Vindica<g ref="char:EOLhyphen"/>tion of His Majesties Honour and Integritie herein, he doth Declare, That he is so farre from conside<g ref="char:EOLhyphen"/>ring any thing contained in those Papers or Wri<g ref="char:EOLhyphen"/>tings, framed by the said Earle, and those Commis<g ref="char:EOLhyphen"/>sioners with whom he Treated, as he doth absolutely dis-avow him therein, and hath given commande<g ref="char:EOLhyphen"/>ment to the Lord Lieutenant and Counsell there, to proceed against the said Earle, as one, who either out of falsenesse, presumption, or folly, hath so ha<g ref="char:EOLhyphen"/>zarded the blemishing of His Majesties Reputation with His good Subjects, and so impertinently fra<g ref="char:EOLhyphen"/>med those Articles of his owne head, without the Consent, Privitie, or Directions of his Majesty, or the Lord Lieutenant, or any of his Counsell there. But true it is, that for the necess<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry preservation of his Majesties Protestant Subjects in <hi>Ireland</hi> (whose case was dayly represented unto him to be so despe<g ref="char:EOLhyphen"/>rate) his Majestie had given Commission to the Lord Lieutenant to Treat, and conclude such a Peace there, <hi>as might be for the safetie of the Crowne, the preservation of the Protestant Religion, and no way dero<g ref="char:EOLhyphen"/>gatory to His owne Honour and publique professions.</hi>
+            </p>
+            <pb n="4" facs="tcp:45457:4"/>
+            <p>But, to the end His Majesties reall Intentions in this businesse of <hi>Ireland,</hi> may be the more clearly understood, and to give the more ample satisfacti<g ref="char:EOLhyphen"/>on to both Houses of Parliament, and Com<g ref="char:EOLhyphen"/>missioners of the Kingdome of <hi>Scotland,</hi> especially concerning His Majesties being engaged in any Peace or Agreement there; He doth desire, if the two Houses shall resolve to admit of His Majesties repaire to <hi>London,</hi> for a personall Treaty, as was formerly proposed, that speedie notice thereof be given to His Majestie, and a Passe or safe Conduct with a blank sent for a Messenger to be immediately dispatched into <hi>Ireland,</hi> to prevent any accident that may happen to hinder His Majesties Resolutions of leaving the Managing of the businesse of <hi>Ireland</hi> wholly to the Houses, and to make no Peace there without their consent: which, in case it shall please God to blesse His Endeavours in the Treaty with Successe, His Majestie doth hereby engage himselfe to doe.</p>
+            <p>And for further Explanation of His Majesties Intentions in His former Messages, Hee doth now Declare, That if His personall repaire to <hi>London,</hi> as aforesaid, shalbe admitted, and a Peace thereon shall ensue, Hee will then leave the nomination of the Persons to be intrusted with the <hi>Militia</hi> whol<g ref="char:EOLhyphen"/>ly to His two Houses, with such Power and Limi<g ref="char:EOLhyphen"/>tations as are expressed in the Paper delivered by His Majesties Commissioners at <hi>Uxbridge,</hi> the 6. of <hi>February,</hi> 1644. for the terme of seven yeares, as hath beene desired; to begin immediately after the
+<pb n="5" facs="tcp:45457:4"/> Conclusion of the Peace, the disbanding of all Forces on both sides, and the dismantling of the Garrisons erected since these present troubles.</p>
+            <p>So, as at the expiration of the time before men<g ref="char:EOLhyphen"/>tioned, the Power of the said <hi>Militia</hi> shall intirely revert and remaine as before. And for their better Security, His Majestie (the Peace succeeding) will be content that <hi>pro hac vice,</hi> the two Houses shall no<g ref="char:EOLhyphen"/>minate the Admirall, Officers of State, and Judg<g ref="char:EOLhyphen"/>es, to hold their places during life, or <hi>quam diu se bene gesserint,</hi> which shall be best liked, to be ac<g ref="char:EOLhyphen"/>comptable to none but to the King, &amp; the two Hou<g ref="char:EOLhyphen"/>ses of Parliament. As for the matter of Religion, His Majestie doth further Declare, That by the li<g ref="char:EOLhyphen"/>bertie offered in His Message of the 15. present, for the <hi>Ease of their Consciences, who will not Communicate in the Service already established by Acts of Parliament in this Kingdome;</hi> He intends, that all other <hi>Prote<g ref="char:EOLhyphen"/>stants,</hi> behaving themselves peaceably in and toward the Civill Government, shall have the free exercise of their Religion, according to their owne way.</p>
+            <p>And for a totall removall of feares and iealousies, His Majestie is willing to agree; that upon the conclusion of Peace, there shall be a generall <hi>Act of Oblivion and free Pardon,</hi> passed by Acts of Parlia<g ref="char:EOLhyphen"/>ment in both Kingdomes respectively: and least it should be imagined, that in the making of the Propositions, His Majesties Kingdome of <hi>Scotland,</hi> and His Subjects there, have beene forgotten or neglected, His Majestie declares, That what is herein mentioned touching the <hi>Militia, the naming of Offi<g ref="char:EOLhyphen"/>cers
+<pb n="6" facs="tcp:45457:5"/> of State and Iudges,</hi> shall likewise extend to his Kingdome of <hi>Scotland.</hi>
+            </p>
+            <p>And now His Majestie having so fully and clearely expressed His intentions and desires, of making a Happie and well-grounded Peace: if any person shall decline that hap<g ref="char:EOLhyphen"/>pinesse, by opposing of so apparent a way of attaining it; He will sufficiently demon<g ref="char:EOLhyphen"/>strate to all the World, his Intention and Designe can be no other then the <hi>Totall Subversion</hi> and change of the Antient and Happy <hi>Government</hi> of this Kingdome, un<g ref="char:EOLhyphen"/>der which the English Nation hath so long flourished.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at the Court at</hi> Oxford, <date>
+                     <hi>the</hi> 29. <hi>of</hi> Jan. 1645.</date>
+               </dateline>
+            </closer>
+            <argument>
+               <p>For the Speaker of the House of Peeres <hi>pro tempore,</hi> to be communicated to the House of Commons at <hi>Westmin<g ref="char:EOLhyphen"/>ster,</hi> and to the Commissioners of the Parliament of <hi>Scotland.</hi>
+               </p>
+            </argument>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45457:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
